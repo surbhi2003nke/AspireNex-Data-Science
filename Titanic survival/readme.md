@@ -1,5 +1,5 @@
 
-# **TASK 1 - TITANIC SURVIVAL PREDICTION **
+# TASK 1 - TITANIC SURVIVAL PREDICTION  
 
 This project demonstrates how to predict survival on the Titanic using machine learning models. The dataset used is the Titanic Survival dataset, which contains information about the passengers on the Titanic. The goal is to predict the survival status of passengers based on different features.  
 
