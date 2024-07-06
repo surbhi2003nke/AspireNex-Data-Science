@@ -2,7 +2,6 @@
 # TASK 5 - CREDIT CARD FRAUD DETECTION  
 
 This project demonstrates how to predict fraudulent credit card transactions using machine learning models. The dataset used is the Credit Card Fraud Detection dataset, which contains information about various transactions. The goal is to predict the fraud status of transactions based on different features.  
-
 Data Set: <link> https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud  <link>
 ## Requirements:  
 - Ensure you have Python 3.x installed along with the following libraries:
@@ -31,6 +30,6 @@ The script will print evaluation metrics i.e accuracy_score to evaluate the mode
 
 ## References:
 - Scikit-learn Documentation
-- Credit Card Fraud Detection Dataset
+
 
 
