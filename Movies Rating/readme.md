@@ -23,7 +23,7 @@ Dataset: https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies
 
 ## View results:  
 
-he script will print evaluation metrics (e.g., accuracy score, mean squared error) to evaluate the model's performance. Additionally, it will visualize predicted vs actual ratings for a subset of the data.
+The script will print evaluation metrics (e.g., accuracy score, mean squared error) to evaluate the model's performance. Additionally, it will visualize predicted vs actual ratings for a subset of the data.
 
 ## Files:
 - movie.ipynb: Main script for data loading, preprocessing, model training, evaluation, and prediction.
