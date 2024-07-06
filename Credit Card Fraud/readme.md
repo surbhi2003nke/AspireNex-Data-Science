@@ -21,12 +21,11 @@ Data Set: <link> https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud  <link>
 
 ## View results:  
 
-The script will print evaluation metrics i.e accuracy_score to evaluate the model's performance. Additionally, it will visualize predicted vs actual prices for a subset of the data.
+The script will print evaluation metrics i.e accuracy_score to evaluate the model's performance.
 
 ## Files:
 - credit.ipynb: Main script for data loading, preprocessing, model training, evaluation, and prediction.
 - readme.md: This file, providing an overview of the project and instructions.
-- creditcard.csv: Dataset required for the project.
 
 ## References:
 - Scikit-learn Documentation
